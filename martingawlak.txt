@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Martin Gawlak</title>
+
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+<h2>9-Bit: "How To Walk"</h2>
+<a href="9-Bit_-_How_to_Walk.m4a">9-bit: </a>
+<p>"How To Walk" is an intentionally lo-fi-esque, movemented score to tell a story. There is music for many situations included in this sampler that flows like a full soundtrack. As you listen a second time, you can hear how various parts can be stretched, looped, or extended for different parts of a role playing adventure. Clear your mind, put on some headphones, and stare at a wall for five minutes while you learn life lessons that usually take years of experience to possess.</p>
+
+<h2>Variety Reel</h2>
+
+<p></p>
+
+
+</body>
+</html>
